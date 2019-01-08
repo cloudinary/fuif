@@ -1,9 +1,9 @@
 
 # FUIF: Free Universal Image Format
 
-** WARNING: This is a research prototype. The bitstream is not finalized. Images encoded
+**WARNING: This is a research prototype. The bitstream is not finalized. Images encoded
 with the current version of FUIF may not (and probably will not) decode with future versions
-of FUIF. Use at your own risk! **
+of FUIF. Use at your own risk!**
 
 FUIF is a new image format, combining ideas from JPEG, lossless WebP, and FLIF.
 It is a 'universal' image format in several senses:
