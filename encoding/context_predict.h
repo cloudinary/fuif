@@ -230,7 +230,7 @@ pixel_type predict_and_compute_properties_with_reference(Properties &p, const Ch
 }
 */
 
-pixel_type precompute_references(const Channel &ch, int y, const Image &image, int i, fuif_options &options, Channel &references) {
+void precompute_references(const Channel &ch, int y, const Image &image, int i, fuif_options &options, Channel &references) {
     int offset=0;
     int oy = y << ch.vshift;
 //    for (int j=i-1; j>=image.nb_meta_channels && offset < options.max_properties; j--) {
