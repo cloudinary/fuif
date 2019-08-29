@@ -1,4 +1,10 @@
 
+---
+**FUIF development has stopped since FUIF is subsumed in JPEG XL (https://jpeg.org/jpegxl/index.html), which is based on a combination of Pik and FUIF.
+Once the JPEG XL standard is ready, we are planning to make a royalty-free and open source reference implementation available.**
+
+---
+
 # FUIF: Free Universal Image Format
 
 **WARNING: This is a research prototype. The bitstream is not finalized. Images encoded
