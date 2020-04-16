@@ -1,7 +1,7 @@
 
 ---
 **FUIF development has stopped since FUIF is subsumed in JPEG XL (https://jpeg.org/jpegxl/index.html), which is based on a combination of Pik and FUIF.
-Once the JPEG XL standard is ready, we are planning to make a royalty-free and open source reference implementation available.**
+A royalty-free and open source reference implementation of JPEG XL is available on [GitLab](https://gitlab.com/wg1/jpeg-xl)**
 
 ---
 
